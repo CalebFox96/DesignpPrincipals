@@ -1,3 +1,7 @@
+//Caleb Fox
+// g00327455@gmit.ie
+//Design principlas
+// Implementation of single responsibilty principal
 package ie.gmit.single;
 
 import java.util.regex.Matcher;

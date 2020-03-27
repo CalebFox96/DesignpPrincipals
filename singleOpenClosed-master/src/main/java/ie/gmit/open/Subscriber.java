@@ -1,3 +1,6 @@
+//Caleb Fox
+// g00327455@gmit.ie
+//Implementation of open/closed principlal
 package ie.gmit.open;
 
 public abstract class Subscriber {
